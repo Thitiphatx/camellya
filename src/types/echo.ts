@@ -28,6 +28,7 @@ export type SkillDetail = {
     damagePercentage?: number;     // Percentage-based damage (optional)
     hits?: number;                 // Number of hits (for cases like "47.72%*2")
     staminaConsumption?: number;   // Stamina cost (for non-damage properties)
+    statBuff: Stat;
 };
 
 export type Skill = {
@@ -38,6 +39,8 @@ export type Skill = {
 
 export type Character = {
     name: string;
+    portrait: string;
+    rarity: number;
     level: number;
     baseStat: Stat;
     element: Element;
@@ -59,3 +62,9 @@ export type Character = {
         chain: Stat[];
     };
 };
+
+export type Echo = {
+    name: string;
+    class: string;
+    cost: number;
+}

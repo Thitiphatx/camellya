@@ -1,13 +1,13 @@
 "use client"
 import { Image } from "@nextui-org/react";
 import { Card, CardBody } from "@nextui-org/card"
-import atkIcon from '../assets/stat_atk.webp';
-import hpIcon from '../assets/stat_hp.webp';
-import defIcon from '../assets/stat_def.webp';
-import energyIcon from '../assets/stat_energy.webp'
-import critRateIcon from '../assets/stat_crit.webp'
-import critDMGIcon from '../assets/stat_critdmg.webp'
-import healIcon from '../assets/stat_heal.webp'
+import atkIcon from '../assets/icons/stat_atk.webp';
+import hpIcon from '../assets/icons/stat_hp.webp';
+import defIcon from '../assets/icons/stat_def.webp';
+import energyIcon from '../assets/icons/stat_energy.webp'
+import critRateIcon from '../assets/icons/stat_crit.webp'
+import critDMGIcon from '../assets/icons/stat_critdmg.webp'
+import healIcon from '../assets/icons/stat_heal.webp'
 import { Button } from "@nextui-org/button";
 import { Slider } from "@nextui-org/react";
 import { IconRefresh } from "@/styles/icon";

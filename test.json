@@ -1,0 +1,1544 @@
+{
+    "data": {
+        "allContentfulWwCharacter": {
+            "nodes": [
+                {
+                    "id": "3898a716-934f-5949-86fd-112080b0a7eb",
+                    "unitId": "7",
+                    "slug": "mortefi",
+                    "name": "Mortefi",
+                    "rarity": "4",
+                    "element": "Fusion",
+                    "weapon": "Pistols",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/667fb99db40b24da2a48ca9d58579057/60b4d/mortefi_icon.webp",
+                                            "srcSet": "/static/667fb99db40b24da2a48ca9d58579057/e73fe/mortefi_icon.webp 40w,\n/static/667fb99db40b24da2a48ca9d58579057/61ca6/mortefi_icon.webp 80w,\n/static/667fb99db40b24da2a48ca9d58579057/60b4d/mortefi_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/afa511d7b0c173247db7478c15e7e8d7/b26e2/mortefi_card.webp",
+                                            "srcSet": "/static/afa511d7b0c173247db7478c15e7e8d7/84550/mortefi_card.webp 94w,\n/static/afa511d7b0c173247db7478c15e7e8d7/34f80/mortefi_card.webp 187w,\n/static/afa511d7b0c173247db7478c15e7e8d7/b26e2/mortefi_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "ST",
+                        "Coord"
+                    ],
+                    "ratings": {
+                        "tower": 10
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "829e1578-80dd-51fb-9552-efae494b653c",
+                    "unitId": "23",
+                    "slug": "youhu",
+                    "name": "Youhu",
+                    "rarity": "4",
+                    "element": "Glacio",
+                    "weapon": "Unknown",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/017e36528141dbd7900ed716a9bd07b8/60b4d/icon_youhu.webp",
+                                            "srcSet": "/static/017e36528141dbd7900ed716a9bd07b8/e73fe/icon_youhu.webp 40w,\n/static/017e36528141dbd7900ed716a9bd07b8/61ca6/icon_youhu.webp 80w,\n/static/017e36528141dbd7900ed716a9bd07b8/60b4d/icon_youhu.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/b26e2/card_youhu.webp",
+                                            "srcSet": "/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/84550/card_youhu.webp 94w,\n/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/34f80/card_youhu.webp 187w,\n/static/c4b47996ef9c20aa6c2fc04c9bd7cfa3/b26e2/card_youhu.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Heal"
+                    ],
+                    "ratings": {
+                        "tower": 9
+                    },
+                    "isNew": true,
+                    "upcoming": false
+                },
+                {
+                    "id": "087d234f-7698-50be-8514-8bc1a7518da5",
+                    "unitId": "24",
+                    "slug": "the-shorekeeper",
+                    "name": "The Shorekeeper",
+                    "rarity": "5",
+                    "element": "Spectro",
+                    "weapon": "Rectifier",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/2d7e96e49ef73bf0f2f4863363e5b8a0/60b4d/icon_keeper.webp",
+                                            "srcSet": "/static/2d7e96e49ef73bf0f2f4863363e5b8a0/e73fe/icon_keeper.webp 40w,\n/static/2d7e96e49ef73bf0f2f4863363e5b8a0/61ca6/icon_keeper.webp 80w,\n/static/2d7e96e49ef73bf0f2f4863363e5b8a0/60b4d/icon_keeper.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp",
+                                            "srcSet": "/static/53a7609e743512dbf5f89bb78cc7bab4/84550/card_keeper.webp 94w,\n/static/53a7609e743512dbf5f89bb78cc7bab4/34f80/card_keeper.webp 187w,\n/static/53a7609e743512dbf5f89bb78cc7bab4/b26e2/card_keeper.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Heal"
+                    ],
+                    "ratings": {
+                        "tower": 11
+                    },
+                    "isNew": false,
+                    "upcoming": false
+                },
+                {
+                    "id": "5e0b3f5e-ea41-568d-84c9-e449032f935f",
+                    "unitId": "11",
+                    "slug": "aalto",
+                    "name": "Aalto",
+                    "rarity": "4",
+                    "element": "Aero",
+                    "weapon": "Pistols",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#c8c8c8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5db7bb270598da81ce369a217b03c7a4/60b4d/aalto_icon.webp",
+                                            "srcSet": "/static/5db7bb270598da81ce369a217b03c7a4/e73fe/aalto_icon.webp 40w,\n/static/5db7bb270598da81ce369a217b03c7a4/61ca6/aalto_icon.webp 80w,\n/static/5db7bb270598da81ce369a217b03c7a4/60b4d/aalto_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d8d8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp",
+                                            "srcSet": "/static/28692b3a188f6b7b14a9d28aa90bf3c8/84550/aalto_card.webp 94w,\n/static/28692b3a188f6b7b14a9d28aa90bf3c8/34f80/aalto_card.webp 187w,\n/static/28692b3a188f6b7b14a9d28aa90bf3c8/b26e2/aalto_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "ST"
+                    ],
+                    "ratings": {
+                        "tower": 7
+                    },
+                    "isNew": false,
+                    "upcoming": null
+                },
+                {
+                    "id": "e559296f-051b-5d36-bbc6-3388ddf6b6b3",
+                    "unitId": "9",
+                    "slug": "chixia",
+                    "name": "Chixia",
+                    "rarity": "4",
+                    "element": "Fusion",
+                    "weapon": "Pistols",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8d8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/71236d20764f2c07959320fe977b1cfe/60b4d/chixia_icon.webp",
+                                            "srcSet": "/static/71236d20764f2c07959320fe977b1cfe/e73fe/chixia_icon.webp 40w,\n/static/71236d20764f2c07959320fe977b1cfe/61ca6/chixia_icon.webp 80w,\n/static/71236d20764f2c07959320fe977b1cfe/60b4d/chixia_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/689148c2dc5b0b38aeb2c75ca8b3ef65/b26e2/chixia_card.webp",
+                                            "srcSet": "/static/689148c2dc5b0b38aeb2c75ca8b3ef65/84550/chixia_card.webp 94w,\n/static/689148c2dc5b0b38aeb2c75ca8b3ef65/34f80/chixia_card.webp 187w,\n/static/689148c2dc5b0b38aeb2c75ca8b3ef65/b26e2/chixia_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "ST"
+                    ],
+                    "ratings": {
+                        "tower": 7
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "c87cdafc-b171-52d5-be23-ce8b0f074008",
+                    "unitId": "13",
+                    "slug": "encore",
+                    "name": "Encore",
+                    "rarity": "5",
+                    "element": "Fusion",
+                    "weapon": "Rectifier",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8e8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/1a3794a9470c6212dd614f9001efd27b/60b4d/encore_icon.webp",
+                                            "srcSet": "/static/1a3794a9470c6212dd614f9001efd27b/e73fe/encore_icon.webp 40w,\n/static/1a3794a9470c6212dd614f9001efd27b/61ca6/encore_icon.webp 80w,\n/static/1a3794a9470c6212dd614f9001efd27b/60b4d/encore_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp",
+                                            "srcSet": "/static/0acc12c57906dc3c1f47e038832ec1f4/84550/encore_card.webp 94w,\n/static/0acc12c57906dc3c1f47e038832ec1f4/34f80/encore_card.webp 187w,\n/static/0acc12c57906dc3c1f47e038832ec1f4/b26e2/encore_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Cleave",
+                        "Cancel"
+                    ],
+                    "ratings": {
+                        "tower": 10
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "4ee2cc83-f160-50a2-96b7-9d9dcded77b4",
+                    "unitId": "16",
+                    "slug": "yinlin",
+                    "name": "Yinlin",
+                    "rarity": "5",
+                    "element": "Electro",
+                    "weapon": "Rectifier",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#881818",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/7685f5e171e66da19299b3d1a62416ad/60b4d/yinglin_icon.webp",
+                                            "srcSet": "/static/7685f5e171e66da19299b3d1a62416ad/e73fe/yinglin_icon.webp 40w,\n/static/7685f5e171e66da19299b3d1a62416ad/61ca6/yinglin_icon.webp 80w,\n/static/7685f5e171e66da19299b3d1a62416ad/60b4d/yinglin_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#180808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp",
+                                            "srcSet": "/static/a2b0c34a81e57a52165da5b356be412c/84550/yinglin_card.webp 94w,\n/static/a2b0c34a81e57a52165da5b356be412c/34f80/yinglin_card.webp 187w,\n/static/a2b0c34a81e57a52165da5b356be412c/b26e2/yinglin_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "AoE",
+                        "Cancel",
+                        "Coord"
+                    ],
+                    "ratings": {
+                        "tower": 11
+                    },
+                    "isNew": false,
+                    "upcoming": null
+                },
+                {
+                    "id": "96da9643-cd8f-57b3-854e-cdd94529532e",
+                    "unitId": "22",
+                    "slug": "zhezhi",
+                    "name": "Zhezhi",
+                    "rarity": "5",
+                    "element": "Glacio",
+                    "weapon": "Rectifier",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#382828",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/a3cc6a1c9f8e400a7d70e1254cf03135/60b4d/icon_zhe.webp",
+                                            "srcSet": "/static/a3cc6a1c9f8e400a7d70e1254cf03135/e73fe/icon_zhe.webp 40w,\n/static/a3cc6a1c9f8e400a7d70e1254cf03135/61ca6/icon_zhe.webp 80w,\n/static/a3cc6a1c9f8e400a7d70e1254cf03135/60b4d/icon_zhe.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp",
+                                            "srcSet": "/static/50c9470f533efed9b28076e92230308b/84550/card_zhe.webp 94w,\n/static/50c9470f533efed9b28076e92230308b/34f80/card_zhe.webp 187w,\n/static/50c9470f533efed9b28076e92230308b/b26e2/card_zhe.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "Coord",
+                        "Cleave"
+                    ],
+                    "ratings": {
+                        "tower": 11
+                    },
+                    "isNew": false,
+                    "upcoming": false
+                },
+                {
+                    "id": "aafde600-1677-5d35-865d-bc6a742baf41",
+                    "unitId": "15",
+                    "slug": "calcharo",
+                    "name": "Calcharo",
+                    "rarity": "5",
+                    "element": "Electro",
+                    "weapon": "Broadblade",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/9d9f89061489b8b5c6a24b0b04b0d25c/60b4d/kakarot_icon.webp",
+                                            "srcSet": "/static/9d9f89061489b8b5c6a24b0b04b0d25c/e73fe/kakarot_icon.webp 40w,\n/static/9d9f89061489b8b5c6a24b0b04b0d25c/61ca6/kakarot_icon.webp 80w,\n/static/9d9f89061489b8b5c6a24b0b04b0d25c/60b4d/kakarot_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#282828",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp",
+                                            "srcSet": "/static/7b01c2f05825303762d3e6b9da538c7d/84550/kakarot_card.webp 94w,\n/static/7b01c2f05825303762d3e6b9da538c7d/34f80/kakarot_card.webp 187w,\n/static/7b01c2f05825303762d3e6b9da538c7d/b26e2/kakarot_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Cancel",
+                        "Hard",
+                        "ST",
+                        "Ult"
+                    ],
+                    "ratings": {
+                        "tower": 8
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "5fe8c630-c92f-577a-861d-c3bd2b1201b5",
+                    "unitId": "19",
+                    "slug": "jinhsi",
+                    "name": "Jinhsi",
+                    "rarity": "5",
+                    "element": "Spectro",
+                    "weapon": "Broadblade",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5ded1ec545bc619bfd04bb6bab3d561f/60b4d/jihni_icon.webp",
+                                            "srcSet": "/static/5ded1ec545bc619bfd04bb6bab3d561f/e73fe/jihni_icon.webp 40w,\n/static/5ded1ec545bc619bfd04bb6bab3d561f/61ca6/jihni_icon.webp 80w,\n/static/5ded1ec545bc619bfd04bb6bab3d561f/60b4d/jihni_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp",
+                                            "srcSet": "/static/136095b0f95ac4be3ddc7e2d585855bf/84550/jihni_card.webp 94w,\n/static/136095b0f95ac4be3ddc7e2d585855bf/34f80/jihni_card.webp 187w,\n/static/136095b0f95ac4be3ddc7e2d585855bf/b26e2/jihni_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Cleave",
+                        "Coord"
+                    ],
+                    "ratings": {
+                        "tower": 11
+                    },
+                    "isNew": false,
+                    "upcoming": false
+                },
+                {
+                    "id": "973c29e3-88aa-5d9d-af63-42c9f00ccea3",
+                    "unitId": "14",
+                    "slug": "jiyan",
+                    "name": "Jiyan",
+                    "rarity": "5",
+                    "element": "Aero",
+                    "weapon": "Broadblade",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5833ca240984b14cd6da2d2121235d30/60b4d/jiyan_icon.webp",
+                                            "srcSet": "/static/5833ca240984b14cd6da2d2121235d30/e73fe/jiyan_icon.webp 40w,\n/static/5833ca240984b14cd6da2d2121235d30/61ca6/jiyan_icon.webp 80w,\n/static/5833ca240984b14cd6da2d2121235d30/60b4d/jiyan_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#081818",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp",
+                                            "srcSet": "/static/5020d60083afc09d2fb6bce4a35225bc/84550/jiyan_card.webp 94w,\n/static/5020d60083afc09d2fb6bce4a35225bc/34f80/jiyan_card.webp 187w,\n/static/5020d60083afc09d2fb6bce4a35225bc/b26e2/jiyan_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "AoE",
+                        "Ult"
+                    ],
+                    "ratings": {
+                        "tower": 10
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "c43f93ca-0c1f-57cf-a16f-c05d155d19f8",
+                    "unitId": "1",
+                    "slug": "rover-spectro",
+                    "name": "Rover (Spectro)",
+                    "rarity": "5",
+                    "element": "Spectro",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#585858",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp",
+                                            "srcSet": "/static/33d043cdcced39c96b08f210c4c15d4c/e73fe/rover_icon.webp 40w,\n/static/33d043cdcced39c96b08f210c4c15d4c/61ca6/rover_icon.webp 80w,\n/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#383838",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+                                            "srcSet": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/84550/rover_card.webp 94w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/34f80/rover_card.webp 187w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "Cleave",
+                        "Heal",
+                        "Multirole"
+                    ],
+                    "ratings": {
+                        "tower": 7
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "ea8bc2e6-8203-55ae-830b-0f85b14b5bfb",
+                    "unitId": "8",
+                    "slug": "sanhua",
+                    "name": "Sanhua",
+                    "rarity": "4",
+                    "element": "Glacio",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/921950fb2e5677d56ba130d778207a80/60b4d/senhua_icon.webp",
+                                            "srcSet": "/static/921950fb2e5677d56ba130d778207a80/e73fe/senhua_icon.webp 40w,\n/static/921950fb2e5677d56ba130d778207a80/61ca6/senhua_icon.webp 80w,\n/static/921950fb2e5677d56ba130d778207a80/60b4d/senhua_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#787878",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp",
+                                            "srcSet": "/static/f67966dd31af657ac8612d36006d5874/84550/senhua_card.webp 94w,\n/static/f67966dd31af657ac8612d36006d5874/34f80/senhua_card.webp 187w,\n/static/f67966dd31af657ac8612d36006d5874/b26e2/senhua_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "Cleave",
+                        "Hard"
+                    ],
+                    "ratings": {
+                        "tower": 10
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "7bfcd031-b2a6-5e5e-a661-aafb6e457b30",
+                    "unitId": "2",
+                    "slug": "rover-havoc",
+                    "name": "Rover (Havoc)",
+                    "rarity": "5",
+                    "element": "Havoc",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#585858",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp",
+                                            "srcSet": "/static/33d043cdcced39c96b08f210c4c15d4c/e73fe/rover_icon.webp 40w,\n/static/33d043cdcced39c96b08f210c4c15d4c/61ca6/rover_icon.webp 80w,\n/static/33d043cdcced39c96b08f210c4c15d4c/60b4d/rover_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#383838",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+                                            "srcSet": "/static/ec3edb26e6df7f128ff8f9d1226c9a76/84550/rover_card.webp 94w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/34f80/rover_card.webp 187w,\n/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Cleave"
+                    ],
+                    "ratings": {
+                        "tower": 9
+                    },
+                    "isNew": false,
+                    "upcoming": null
+                },
+                {
+                    "id": "10e31497-e4d1-5838-93b7-1d3d046e3b32",
+                    "unitId": "6",
+                    "slug": "danjin",
+                    "name": "Danjin",
+                    "rarity": "4",
+                    "element": "Havoc",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#380808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/703bdde2066f048e88e7cc51463f9a90/60b4d/danjin_icon.webp",
+                                            "srcSet": "/static/703bdde2066f048e88e7cc51463f9a90/e73fe/danjin_icon.webp 40w,\n/static/703bdde2066f048e88e7cc51463f9a90/61ca6/danjin_icon.webp 80w,\n/static/703bdde2066f048e88e7cc51463f9a90/60b4d/danjin_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp",
+                                            "srcSet": "/static/431f962f5a8febb92f44ae9138aa5e01/84550/danjin_card.webp 94w,\n/static/431f962f5a8febb92f44ae9138aa5e01/34f80/danjin_card.webp 187w,\n/static/431f962f5a8febb92f44ae9138aa5e01/b26e2/danjin_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Hard",
+                        "Risk",
+                        "ST",
+                        "Multirole"
+                    ],
+                    "ratings": {
+                        "tower": 8
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "e1954be5-25fb-5bf1-822e-97170305a8d2",
+                    "unitId": "20",
+                    "slug": "changli",
+                    "name": "Changli",
+                    "rarity": "5",
+                    "element": "Fusion",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d8d8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/0f92245f5d6cae50f613fd247a848785/60b4d/changli_icon.webp",
+                                            "srcSet": "/static/0f92245f5d6cae50f613fd247a848785/e73fe/changli_icon.webp 40w,\n/static/0f92245f5d6cae50f613fd247a848785/61ca6/changli_icon.webp 80w,\n/static/0f92245f5d6cae50f613fd247a848785/60b4d/changli_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d8d8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp",
+                                            "srcSet": "/static/7eb8b347a3aa1837164c79a5e520d268/84550/card_changli.webp 94w,\n/static/7eb8b347a3aa1837164c79a5e520d268/34f80/card_changli.webp 187w,\n/static/7eb8b347a3aa1837164c79a5e520d268/b26e2/card_changli.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Cleave",
+                        "Cancel"
+                    ],
+                    "ratings": {
+                        "tower": 10
+                    },
+                    "isNew": false,
+                    "upcoming": false
+                },
+                {
+                    "id": "f8e393a6-b1d3-565e-83b8-5d31601415b6",
+                    "unitId": "21",
+                    "slug": "xiangli-yao",
+                    "name": "Xiangli Yao",
+                    "rarity": "5",
+                    "element": "Electro",
+                    "weapon": "Gauntlets",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/5781efb6cb37a7c50e147ac8180ef1fa/60b4d/icon_xiang.webp",
+                                            "srcSet": "/static/5781efb6cb37a7c50e147ac8180ef1fa/e73fe/icon_xiang.webp 40w,\n/static/5781efb6cb37a7c50e147ac8180ef1fa/61ca6/icon_xiang.webp 80w,\n/static/5781efb6cb37a7c50e147ac8180ef1fa/60b4d/icon_xiang.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp",
+                                            "srcSet": "/static/698d0d5f2ba882de8f3d5494e622e940/84550/card_xiang.webp 94w,\n/static/698d0d5f2ba882de8f3d5494e622e940/34f80/card_xiang.webp 187w,\n/static/698d0d5f2ba882de8f3d5494e622e940/b26e2/card_xiang.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "Cleave",
+                        "Ult"
+                    ],
+                    "ratings": {
+                        "tower": 10
+                    },
+                    "isNew": false,
+                    "upcoming": false
+                },
+                {
+                    "id": "7ed232ce-77c0-514a-8d6e-4205bbab4212",
+                    "unitId": "17",
+                    "slug": "lingyang",
+                    "name": "Lingyang",
+                    "rarity": "5",
+                    "element": "Glacio",
+                    "weapon": "Gauntlets",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/3616c27ee77277bf13d2d77184cb0da5/60b4d/ling_icon.webp",
+                                            "srcSet": "/static/3616c27ee77277bf13d2d77184cb0da5/e73fe/ling_icon.webp 40w,\n/static/3616c27ee77277bf13d2d77184cb0da5/61ca6/ling_icon.webp 80w,\n/static/3616c27ee77277bf13d2d77184cb0da5/60b4d/ling_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp",
+                                            "srcSet": "/static/672fdaae2b01f8355d5631a989e5f472/84550/ling_card.webp 94w,\n/static/672fdaae2b01f8355d5631a989e5f472/34f80/ling_card.webp 187w,\n/static/672fdaae2b01f8355d5631a989e5f472/b26e2/ling_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "DPS",
+                    "tierTags": [
+                        "ST",
+                        "Ult"
+                    ],
+                    "ratings": {
+                        "tower": 7
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "c6710e43-1eb6-5bba-9461-2066eaee1040",
+                    "unitId": "18",
+                    "slug": "jianxin",
+                    "name": "Jianxin",
+                    "rarity": "5",
+                    "element": "Aero",
+                    "weapon": "Gauntlets",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#282828",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/251162ecc5fdbc92df13791f0856e040/60b4d/jiaxin_icon.webp",
+                                            "srcSet": "/static/251162ecc5fdbc92df13791f0856e040/e73fe/jiaxin_icon.webp 40w,\n/static/251162ecc5fdbc92df13791f0856e040/61ca6/jiaxin_icon.webp 80w,\n/static/251162ecc5fdbc92df13791f0856e040/60b4d/jiaxin_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#484848",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp",
+                                            "srcSet": "/static/c215e7a42cbfd78f854553f192dc0e4f/84550/jiaxin_card.webp 94w,\n/static/c215e7a42cbfd78f854553f192dc0e4f/34f80/jiaxin_card.webp 187w,\n/static/c215e7a42cbfd78f854553f192dc0e4f/b26e2/jiaxin_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Shield",
+                        "Multirole",
+                        "AoE"
+                    ],
+                    "ratings": {
+                        "tower": 8
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "e54a581e-833e-5cfe-899b-664a4db4ece7",
+                    "unitId": "5",
+                    "slug": "yuanwu",
+                    "name": "Yuanwu",
+                    "rarity": "4",
+                    "element": "Electro",
+                    "weapon": "Gauntlets",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#e8d8c8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/1de8a10ccaecdb10ecfe33461329d206/60b4d/yuanwu_icon.webp",
+                                            "srcSet": "/static/1de8a10ccaecdb10ecfe33461329d206/e73fe/yuanwu_icon.webp 40w,\n/static/1de8a10ccaecdb10ecfe33461329d206/61ca6/yuanwu_icon.webp 80w,\n/static/1de8a10ccaecdb10ecfe33461329d206/60b4d/yuanwu_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#180818",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/fb4fc64e05d0d40ef90adc4527dc93ea/b26e2/yuanwu_card.webp",
+                                            "srcSet": "/static/fb4fc64e05d0d40ef90adc4527dc93ea/84550/yuanwu_card.webp 94w,\n/static/fb4fc64e05d0d40ef90adc4527dc93ea/34f80/yuanwu_card.webp 187w,\n/static/fb4fc64e05d0d40ef90adc4527dc93ea/b26e2/yuanwu_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Hybrid",
+                    "tierTags": [
+                        "Cleave",
+                        "Coord"
+                    ],
+                    "ratings": {
+                        "tower": 8
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "8c6f2293-80ee-5b49-9ee3-982033dd2558",
+                    "unitId": "4",
+                    "slug": "yangyang",
+                    "name": "Yangyang",
+                    "rarity": "4",
+                    "element": "Aero",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/59a6fe9d76b04f11d376f7012784a0f8/e9a79/yang_icon.png",
+                                            "srcSet": "/static/59a6fe9d76b04f11d376f7012784a0f8/f31ef/yang_icon.png 40w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/1f8a1/yang_icon.png 80w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/e9a79/yang_icon.png 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": [
+                                            {
+                                                "srcSet": "/static/59a6fe9d76b04f11d376f7012784a0f8/e73fe/yang_icon.webp 40w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/61ca6/yang_icon.webp 80w,\n/static/59a6fe9d76b04f11d376f7012784a0f8/60b4d/yang_icon.webp 160w",
+                                                "type": "image/webp",
+                                                "sizes": "(min-width: 160px) 160px, 100vw"
+                                            }
+                                        ]
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#181818",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp",
+                                            "srcSet": "/static/ad90d3bdfacb57e34e7f90367f3823b0/84550/yang_card.webp 94w,\n/static/ad90d3bdfacb57e34e7f90367f3823b0/34f80/yang_card.webp 187w,\n/static/ad90d3bdfacb57e34e7f90367f3823b0/b26e2/yang_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Multirole",
+                        "AoE"
+                    ],
+                    "ratings": {
+                        "tower": 7
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "27f0a43c-a8c5-59b5-91dc-924fae25de63",
+                    "unitId": "3",
+                    "slug": "taoqi",
+                    "name": "Taoqi",
+                    "rarity": "4",
+                    "element": "Havoc",
+                    "weapon": "Broadblade",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#d88898",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/56404f9f8d88385d3ba80b5feaf34a1d/60b4d/taoqi_icon.webp",
+                                            "srcSet": "/static/56404f9f8d88385d3ba80b5feaf34a1d/e73fe/taoqi_icon.webp 40w,\n/static/56404f9f8d88385d3ba80b5feaf34a1d/61ca6/taoqi_icon.webp 80w,\n/static/56404f9f8d88385d3ba80b5feaf34a1d/60b4d/taoqi_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#282828",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/9759a6ea13fefd1bc632650a0a657e8e/b26e2/taoqi_card.webp",
+                                            "srcSet": "/static/9759a6ea13fefd1bc632650a0a657e8e/84550/taoqi_card.webp 94w,\n/static/9759a6ea13fefd1bc632650a0a657e8e/34f80/taoqi_card.webp 187w,\n/static/9759a6ea13fefd1bc632650a0a657e8e/b26e2/taoqi_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Heal",
+                        "Multirole",
+                        "Shield"
+                    ],
+                    "ratings": {
+                        "tower": 6
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "aecae434-b6fc-52e2-bf82-dd8c65198504",
+                    "unitId": "10",
+                    "slug": "baizhi",
+                    "name": "Baizhi",
+                    "rarity": "4",
+                    "element": "Glacio",
+                    "weapon": "Rectifier",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/e681b5947541442581fbd60dd8ccfa0a/60b4d/baizhi_icon.webp",
+                                            "srcSet": "/static/e681b5947541442581fbd60dd8ccfa0a/e73fe/baizhi_icon.webp 40w,\n/static/e681b5947541442581fbd60dd8ccfa0a/61ca6/baizhi_icon.webp 80w,\n/static/e681b5947541442581fbd60dd8ccfa0a/60b4d/baizhi_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#080808",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp",
+                                            "srcSet": "/static/3752f18605107b5fdb36835e9e7a2b90/84550/baizhi_card.webp 94w,\n/static/3752f18605107b5fdb36835e9e7a2b90/34f80/baizhi_card.webp 187w,\n/static/3752f18605107b5fdb36835e9e7a2b90/b26e2/baizhi_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Heal"
+                    ],
+                    "ratings": {
+                        "tower": 9
+                    },
+                    "isNew": null,
+                    "upcoming": null
+                },
+                {
+                    "id": "44323c8a-5a3a-55f1-a966-b79afd92556b",
+                    "unitId": "12",
+                    "slug": "verina",
+                    "name": "Verina",
+                    "rarity": "5",
+                    "element": "Spectro",
+                    "weapon": "Rectifier",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8e8d8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/f080f057b3854b37385ff45cdd96e670/60b4d/verina_icon.webp",
+                                            "srcSet": "/static/f080f057b3854b37385ff45cdd96e670/e73fe/verina_icon.webp 40w,\n/static/f080f057b3854b37385ff45cdd96e670/61ca6/verina_icon.webp 80w,\n/static/f080f057b3854b37385ff45cdd96e670/60b4d/verina_icon.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#b8b8a8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp",
+                                            "srcSet": "/static/dd5bdface07cef9b868fe8214b0988ed/84550/verina_card.webp 94w,\n/static/dd5bdface07cef9b868fe8214b0988ed/34f80/verina_card.webp 187w,\n/static/dd5bdface07cef9b868fe8214b0988ed/b26e2/verina_card.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": "Support",
+                    "tierTags": [
+                        "Heal",
+                        "Coord"
+                    ],
+                    "ratings": {
+                        "tower": 11
+                    },
+                    "isNew": false,
+                    "upcoming": null
+                },
+                {
+                    "id": "c06921a4-b9d4-5be3-9739-fd45fbce300c",
+                    "unitId": "26",
+                    "slug": "lumi",
+                    "name": "Lumi",
+                    "rarity": "4",
+                    "element": "Electro",
+                    "weapon": "Broadblade",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#b89888",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/21c9c0402fa715235198aade13afc1bb/60b4d/icon_lumi.webp",
+                                            "srcSet": "/static/21c9c0402fa715235198aade13afc1bb/e73fe/icon_lumi.webp 40w,\n/static/21c9c0402fa715235198aade13afc1bb/61ca6/icon_lumi.webp 80w,\n/static/21c9c0402fa715235198aade13afc1bb/60b4d/icon_lumi.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#f8f8f8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/f25eefa86b00502ff430328006610ca2/b26e2/card_lumi.webp",
+                                            "srcSet": "/static/f25eefa86b00502ff430328006610ca2/84550/card_lumi.webp 94w,\n/static/f25eefa86b00502ff430328006610ca2/34f80/card_lumi.webp 187w,\n/static/f25eefa86b00502ff430328006610ca2/b26e2/card_lumi.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": null,
+                    "tierTags": null,
+                    "ratings": {
+                        "tower": 1
+                    },
+                    "isNew": null,
+                    "upcoming": true
+                },
+                {
+                    "id": "288c9ef0-f622-5722-9e27-03a6a493227f",
+                    "unitId": "25",
+                    "slug": "camellya",
+                    "name": "Camellya",
+                    "rarity": "5",
+                    "element": "Havoc",
+                    "weapon": "Sword",
+                    "smallImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#e8e8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/e98840a9d8725b0851b66b31e0647e9d/60b4d/icon_cam.webp",
+                                            "srcSet": "/static/e98840a9d8725b0851b66b31e0647e9d/e73fe/icon_cam.webp 40w,\n/static/e98840a9d8725b0851b66b31e0647e9d/61ca6/icon_cam.webp 80w,\n/static/e98840a9d8725b0851b66b31e0647e9d/60b4d/icon_cam.webp 160w",
+                                            "sizes": "(min-width: 160px) 160px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 160,
+                                    "height": 160
+                                }
+                            }
+                        }
+                    },
+                    "cardImage": {
+                        "localFile": {
+                            "childImageSharp": {
+                                "gatsbyImageData": {
+                                    "layout": "constrained",
+                                    "backgroundColor": "#e8e8e8",
+                                    "images": {
+                                        "fallback": {
+                                            "src": "/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp",
+                                            "srcSet": "/static/fa50106c1d7d6d2f02033da9c00628f1/84550/card_cam.webp 94w,\n/static/fa50106c1d7d6d2f02033da9c00628f1/34f80/card_cam.webp 187w,\n/static/fa50106c1d7d6d2f02033da9c00628f1/b26e2/card_cam.webp 374w",
+                                            "sizes": "(min-width: 374px) 374px, 100vw"
+                                        },
+                                        "sources": []
+                                    },
+                                    "width": 374,
+                                    "height": 512
+                                }
+                            }
+                        }
+                    },
+                    "tierCategory": null,
+                    "tierTags": null,
+                    "ratings": {
+                        "tower": 1
+                    },
+                    "isNew": null,
+                    "upcoming": true
+                }
+            ]
+        }
+    }
+}
