@@ -28,13 +28,14 @@ export type SkillDetail = {
     damagePercentage?: number;     // Percentage-based damage (optional)
     hits?: number;                 // Number of hits (for cases like "47.72%*2")
     staminaConsumption?: number;   // Stamina cost (for non-damage properties)
-    statBuff: Stat;
+    statBuff?: Stat;
+    cooldown?: number;
 };
 
-export type Skill = {
+export type SkillMetadata = {
     name: string;
     description: string;
-    multipliers: SkillDetail
+    multipliers: SkillDetail[]
 };
 
 export type Character = {
@@ -46,22 +47,40 @@ export type Character = {
     element: Element;
     skill: {
         active: {
-            basic: Skill;
-            skill: Skill;
-            liberation: Skill;
+            basic: SkillMetadata;
+            skill: SkillMetadata;
+            liberation: SkillMetadata;
         };
         passive: {
-            forte: Skill;
-            inherent: Skill[];
+            forte: SkillMetadata;
+            inherent: SkillMetadata[];
         };
         concerto: {
-            intro: Skill;
-            outro: Skill;
+            intro: SkillMetadata;
+            outro: SkillMetadata;
         };
         minor: Stat[];
         chain: Stat[];
     };
 };
+
+export type CharacterSkill = {
+    active: {
+        basic: SkillMetadata;
+        skill: SkillMetadata;
+        liberation: SkillMetadata;
+    };
+    passive: {
+        forte: SkillMetadata;
+        inherent: SkillMetadata[];
+    };
+    concerto: {
+        intro: SkillMetadata;
+        outro: SkillMetadata;
+    };
+    minor: Stat[];
+    chain: Stat[];
+}
 
 export type Echo = {
     name: string;
