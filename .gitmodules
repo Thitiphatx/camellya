@@ -1,0 +1,6 @@
+[submodule "src/resonance.cdn"]
+	path = src/resonance.cdn
+	url = https://github.com/resonance-rest/cdn.git
+[submodule "src/resonance.api"]
+	path = src/resonance.api
+	url = https://github.com/resonance-rest/api.git
